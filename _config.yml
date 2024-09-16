@@ -84,7 +84,7 @@ author:
   avatar           : "yilaoshi.jpg"
   bio              : "Hunan University" 
   location         : "Changsha,Hunan,China"
-  employer         : ""
+  employer         : 
   pubmed           : 
   googlescholar    : ""
   email            : "yuhaoyuan03@gmail.com"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://yu-haoyuan.github.io"
+  github           : "yu-haoyuan.github.io"
   google_plus      :
   keybase          :
   instagram        :
