@@ -81,10 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "Haoyuan Yu"
-  avatar           : ""
+  avatar           : "yilaoshi.jpg"
   bio              : "Hunan University" 
   location         : "Changsha,Hunan,China"
-  employer         : "Hunan University"
+  employer         : ""
   pubmed           : 
   googlescholar    : ""
   email            : "yuhaoyuan03@gmail.com"
@@ -111,7 +111,7 @@ author:
   tumblr           :
   twitter          : 
   vine             :
-  weibo            : "https://weibo.com/u/5748963576"
+  weibo            : "u/5748963576"
   xing             :
   youtube          :
   wikipedia        :

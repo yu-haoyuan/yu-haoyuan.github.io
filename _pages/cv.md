@@ -11,9 +11,7 @@ redirect_from:
 
 Education
 ======
-
-Work experience
-======
+B.S. in Hunan University, 2026.6(expected)
 
 Skills
 ======
@@ -22,7 +20,4 @@ Skills
 Publications
 ======
 
-  
-Service and leadership
-======
 
