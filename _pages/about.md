@@ -14,6 +14,8 @@ I'm a third year undergraduate student from [HNU of CSEE](http://csee.hnu.edu.cn
 
 I am studying computer courses and have a strong interest in computer vision.
 
-### news
+# news
 
 (December 21, 2024) Our work on egocentric speaker diarization has been accepted to ICASSP 2025!
+
+# publications
