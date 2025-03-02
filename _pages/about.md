@@ -19,3 +19,9 @@ I am studying computer courses and have a strong interest in computer vision.
 (December 21, 2024) Our work on egocentric speaker diarization has been accepted to ICASSP 2025!
 
 # publications
+
+{% for publication in site.publications %}
+* **[{{ publication.title }}]({{ publication.link }})**
+    * Authors: {{ publication.authors }}
+    * Conference: {{ publication.conference }}, {{ publication.year }}
+{% endfor %}
