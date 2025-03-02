@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm YuHaoyuan.
+Hi! I'm Yu Haoyuan.
 
 I'm a third year undergraduate student from [HNU of CSEE](http://csee.hnu.edu.cn/), [Hunan University](https://www.hnu.edu.cn/).
 

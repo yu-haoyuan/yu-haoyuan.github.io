@@ -7,7 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
+<<<<<<< HEAD
 title                    : "大布"
+=======
+title                    : "大 布"
+>>>>>>> af30f3d25f95f7f1c1acf5f7fa5973ab2e6d38c7
 title_separator          : "-"
 name                     : &name "Yu Haoyuan"
 description              : &description "undergraduate student"
