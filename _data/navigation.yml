@@ -4,7 +4,7 @@ main:
     url: https://weibo.com/u/5748963576
 
   - title: "CV"
-    url: /cv/
+    url: files/myCV.pdf
 
   - title: "Blogs"
     url: /blogs/
