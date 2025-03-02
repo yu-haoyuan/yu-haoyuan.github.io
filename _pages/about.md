@@ -20,8 +20,13 @@ I am studying computer courses and have a strong interest in computer vision.
 
 # publications
 
-{% for publication in site.publications %}
-* **[{{ publication.title }}]({{ publication.link }})**
-    * Authors: {{ publication.authors }}
-    * Conference: {{ publication.conference }}, {{ publication.year }}
+{% for post in site.publications reversed %}
+  <div class="publication-entry">
+    {% include archive-single.html %}
+    {% if post.image %}
+      <div class="publication-image">
+        <img src="{{ base_path }}/images/{{ post.image }}" alt="{{ post.title }} image" style="max-width: 300px; margin-top: 10px;">
+      </div>
+    {% endif %}
+  </div>
 {% endfor %}
