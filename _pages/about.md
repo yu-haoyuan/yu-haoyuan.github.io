@@ -14,9 +14,13 @@ I'm a third year undergraduate student from [HNU of CSEE](http://csee.hnu.edu.cn
 
 I am studying computer courses and have a strong interest in computer vision.
 
-{% include_relative includes/news.md %}
+# 🔥 News
 
+- *[December, 2024]*:  🎉 One [ICASSP](https://2025.ieeeicassp.org/) papers have been accepted.
 
+---
+
+# 📄 Publications
 
 <div style="display: flex; flex-wrap: wrap; align-items: center;">
     <div style="flex: 1 1 300px;">
