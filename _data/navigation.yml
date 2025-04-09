@@ -1,10 +1,10 @@
 # main links links
 main:
   - title: "Publications"
-    url: https://weibo.com/u/5748963576
+    url: https://scholar.google.com/citations?user=iKZaRggAAAAJ&hl=en
 
   - title: "CV"
-    url: files/myCV.pdf
+    url: /files/myCV.pdf
 
   - title: "Blogs"
     url: /blogs/
