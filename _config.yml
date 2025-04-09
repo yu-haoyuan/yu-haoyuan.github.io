@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Haoyuan Yu"
-  avatar           : "krs.png"
+  avatar           : "ztfn.png"
   bio              : "Hunan University" 
   location         : "Changsha,Hunan,China"
   employer         : 
   pubmed           : 
-  googlescholar    : ""
+  googlescholar    : "https://scholar.google.com/citations?user=iKZaRggAAAAJ&hl=en"
   email            : "yuhaoyuan03@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Haoyuan-Yu-5"
   uri              :
