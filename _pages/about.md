@@ -30,7 +30,7 @@ I am studying computer courses and have a strong interest in computer vision.
         <h3>Egocentric Speaker Diarization with Vision-Guided Clustering and Adaptive Speech Re-detection</h3>
         <p>He Huang, <u>Haoyuan Yu</u>, Daibo Liu, Haowen Chen, Minjie Cai <br> 
         IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2025 <br> 
-        [GitHub](https://github.com/YellowRiver2001/EgoDiarization) <br> 
+        <a href="https://github.com/YellowRiver2001/EgoDiarization" target="_blank">GitHub Repo</a>
         </p>
     </div>
 </div>
