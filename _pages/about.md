@@ -10,17 +10,32 @@ redirect_from:
 
 Hi! I'm Yu Haoyuan.
 
-I'm a third year undergraduate student from [HNU of CSEE](http://csee.hnu.edu.cn/), [Hunan University](https://www.hnu.edu.cn/).
+I'm a undergraduate student from [HNU of CSEE](http://csee.hnu.edu.cn/), [Hunan University](https://www.hnu.edu.cn/).
 
-I am studying computer courses and have a strong interest in computer vision.
+I am studying computer courses and have a strong interest in AI speech.
 
 # 🔥 News
 
-- *[December, 2024]*:  🎉 One [ICASSP](https://2025.ieeeicassp.org/) papers have been accepted.
+- *[December, 2025]*:  One ICASSP grand chanllage papers have been accepted.
+- *[December, 2024]*:  One [ICASSP](https://2025.ieeeicassp.org/) papers have been accepted.
 
 ---
 
 # 📄 Publications
+
+<div style="display: flex; flex-wrap: wrap; align-items: center;">
+    <div style="flex: 1 1 300px;">
+        <img src="../images/fd.png" alt="ICASSP 2026" style="width: 100%; max-width: 300px;"/>
+    </div>
+    <div style="flex: 1 1 300px; margin-left: 20px;">
+        <h3>Unit-Based Agent for Semi-Cascaded Full-Duplex Dialogue Systems</h3>
+        <p><u>Haoyuan Yu</u>, Yuxuan Chen, Minjie Cai <br> 
+        IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2026<br> 
+        <a href="https://github.com/yu-haoyuan/fd-badcat" target="_blank">GitHub Repo</a>
+        </p>
+    </div>
+</div>
+
 
 <div style="display: flex; flex-wrap: wrap; align-items: center;">
     <div style="flex: 1 1 300px;">
